@@ -1,0 +1,20 @@
+
+body{
+    background-color: #3C4048;
+}
+#name{
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    color: #E14D2A;
+    border-bottom: 2px solid #E14D2A;
+}
+span{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    letter-spacing: 3px;
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"Van Gogh",
+        "soz":"Büyük şeyler küçük şeylerin bir araya gelmesidir."
+    },
+    {
+        "id":2,
+        "name":"Clavdius",
+        "soz":"Her bildiğini söyleme, her söylediğini bil."
+    },
+    {
+        "id":3,
+        "name":"Benjamin Franklin",
+        "soz":"Savaşın iyisi, barışın kötüsü yoktur."
+    },
+    {
+        "id":4,
+        "name":"Dostoyevski",
+        "soz":"Hayatta hep mutlu olursam, Hayalini kuracak neyim kalır."
+    },
+    {
+        "id":5,
+        "name":"Hz. Muhammed (S.A.V)",
+        "soz":"Canı yanan sabretsin. Can yakan, canının yanacağı günü beklesin."
+    }
+]
